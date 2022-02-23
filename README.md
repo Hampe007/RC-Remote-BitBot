@@ -1,6 +1,6 @@
-MakeCode for bitbot RC car!
+MakeCode for RC Remote BitBot code!
 
-(Bitbot RC car remote code can be find here: https://github.com/Hampe007/RC-Car-BitBot )
+(RC Car BitBot code can be find here: https://github.com/Hampe007/RC-Car-BitBot )
 
 Instructions down below in the following languages:
 English / Svenska (Swedish)
