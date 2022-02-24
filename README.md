@@ -12,9 +12,6 @@ ________________________________________________________________________________
 
 
 > Open this page on [https://hampe007.github.io/rc-remote-bitbot/](https://hampe007.github.io/rc-remote-bitbot/)
-## Använd som tillägg
-
-Denna databas kan läggas till som ett **tillägg** i MakeCode.
 
 ## Use as an add-on
 
